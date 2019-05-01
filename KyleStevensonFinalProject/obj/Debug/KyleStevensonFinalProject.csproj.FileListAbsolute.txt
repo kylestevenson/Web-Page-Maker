@@ -1,0 +1,15 @@
+C:\Users\Kyle\source\repos\KyleStevensonFinalProject\KyleStevensonFinalProject\bin\Debug\KyleStevensonFinalProject.exe.config
+C:\Users\Kyle\source\repos\KyleStevensonFinalProject\KyleStevensonFinalProject\bin\Debug\KyleStevensonFinalProject.exe
+C:\Users\Kyle\source\repos\KyleStevensonFinalProject\KyleStevensonFinalProject\bin\Debug\KyleStevensonFinalProject.pdb
+C:\Users\Kyle\source\repos\KyleStevensonFinalProject\KyleStevensonFinalProject\obj\Debug\KyleStevensonFinalProject.csprojAssemblyReference.cache
+C:\Users\Kyle\source\repos\KyleStevensonFinalProject\KyleStevensonFinalProject\obj\Debug\MainWindow.g.cs
+C:\Users\Kyle\source\repos\KyleStevensonFinalProject\KyleStevensonFinalProject\obj\Debug\App.g.cs
+C:\Users\Kyle\source\repos\KyleStevensonFinalProject\KyleStevensonFinalProject\obj\Debug\KyleStevensonFinalProject_MarkupCompile.cache
+C:\Users\Kyle\source\repos\KyleStevensonFinalProject\KyleStevensonFinalProject\obj\Debug\KyleStevensonFinalProject_MarkupCompile.lref
+C:\Users\Kyle\source\repos\KyleStevensonFinalProject\KyleStevensonFinalProject\obj\Debug\MainWindow.baml
+C:\Users\Kyle\source\repos\KyleStevensonFinalProject\KyleStevensonFinalProject\obj\Debug\KyleStevensonFinalProject.g.resources
+C:\Users\Kyle\source\repos\KyleStevensonFinalProject\KyleStevensonFinalProject\obj\Debug\KyleStevensonFinalProject.Properties.Resources.resources
+C:\Users\Kyle\source\repos\KyleStevensonFinalProject\KyleStevensonFinalProject\obj\Debug\KyleStevensonFinalProject.csproj.GenerateResource.cache
+C:\Users\Kyle\source\repos\KyleStevensonFinalProject\KyleStevensonFinalProject\obj\Debug\KyleStevensonFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\Kyle\source\repos\KyleStevensonFinalProject\KyleStevensonFinalProject\obj\Debug\KyleStevensonFinalProject.exe
+C:\Users\Kyle\source\repos\KyleStevensonFinalProject\KyleStevensonFinalProject\obj\Debug\KyleStevensonFinalProject.pdb
